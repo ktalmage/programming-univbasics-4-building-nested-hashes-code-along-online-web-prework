@@ -5,4 +5,4 @@ def first_challenge
    }
    
 end
-print first_challenge
+print first_challenge[:montague].object_id
