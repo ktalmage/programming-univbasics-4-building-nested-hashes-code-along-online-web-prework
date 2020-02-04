@@ -5,4 +5,3 @@ def first_challenge
    }
    
 end
-print epic_tragedy[:capulet].object_id
