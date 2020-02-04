@@ -36,4 +36,4 @@ def third_challenge
 
   
 end
-puts epic_tragedy
+puts third_challenge
