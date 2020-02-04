@@ -19,7 +19,7 @@ def bonus
       ]
    }
   }
-end
+
   epic_tragedy[:montague][:hero][:status] =
   "dead"
   
